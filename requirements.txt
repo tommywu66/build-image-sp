@@ -1,0 +1,65 @@
+# django
+Django==1.8.16
+
+# execute functions regularly (e.g. clean x days ago notification data)
+django-crontab==0.7.1
+
+# API documentation generator
+django-rest-swagger==0.3.4
+
+# timeout a logged in user session after a specified time period
+django-session-idle-timeout==1.4.2
+
+# export settings to template file
+django-settings-export==1.2.1
+
+# build API
+djangorestframework==3.5.3
+
+# source code checker
+flake8==3.5.0
+# flake8 depenency packages
+configparser==3.5.0
+enum34==1.1.6
+mccabe==0.6.1
+pycodestyle==2.3.1
+pyflakes==1.6.0
+
+# python wsgi HTTP server for UNIX
+gunicorn==19.6.0
+
+# make text more user friendly
+humanfriendly==2.1
+
+# an interface to MySQL database server for python
+MySQL-python==1.2.5
+
+# timezone definition
+pytz==2016.7
+
+# parser YAML file
+PyYAML==3.12
+
+# for swift
+stevedore==1.20.0
+python-keystoneclient==3.2.0
+python-swiftclient==3.0.0
+
+# HTTP library for python
+requests==2.14.2
+
+# export HTML and CSS to PDF
+cairocffi==0.7.2
+WeasyPrint==0.40
+
+# create excel xlsx file
+XlsxWriter==0.9.6
+
+# for LDAP
+python-ldap==2.4.41
+django-auth-ldap==1.2.14
+
+# for DRaaS solution
+uuid==1.30
+async==0.6.2
+python-novaclient==3.4.0
