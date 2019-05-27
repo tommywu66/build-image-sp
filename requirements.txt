@@ -14,7 +14,7 @@ django-session-idle-timeout==1.4.2
 django-settings-export==1.2.1
 
 # build API
-djangorestframework==3.5.3
+djangorestframework==3.9.1
 
 # source code checker
 flake8==3.5.0
