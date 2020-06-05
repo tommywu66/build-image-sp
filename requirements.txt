@@ -1,5 +1,5 @@
 # django
-Django==1.8.16
+Django==1.11.29
 
 # execute functions regularly (e.g. clean x days ago notification data)
 django-crontab==0.7.1
