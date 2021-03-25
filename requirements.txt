@@ -38,7 +38,7 @@ MySQL-python==1.2.5
 pytz==2016.7
 
 # parser YAML file
-PyYAML==3.12
+PyYAML==5.4
 
 # for swift
 stevedore==1.20.0
