@@ -56,7 +56,7 @@ WeasyPrint==0.40
 XlsxWriter==0.9.6
 
 # for LDAP
-python-ldap==2.4.41
+python-ldap==3.4.0
 django-auth-ldap==1.2.14
 
 # for DRaaS solution
